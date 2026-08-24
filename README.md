@@ -1,72 +1,77 @@
-<div align="center">
-  <!-- GIF Banner -->
-  <img height="180" src="https://raw.githubusercontent.com/kenzbase/kenzbase/main/header.gif.gif" alt="Header GIF" />
-  
-  <br><br>
-
-  <!-- Social Media Badges with Links -->
-  <a href="https://www.youtube.com/@xkira_za" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="28" alt="YouTube" />
-  </a>
-  <a href="https://discord.gg/9kmQ9taCGU" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" height="28" alt="Discord" />
-  </a>
-  <a href="https://www.instagram.com/nmc_ryuza/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="28" alt="Instagram" />
-  </a>
-  <a href="https://open.spotify.com/user/31qlwrqeot6gh3feu4tr6rmwxxrq" target="_blank">
-    <img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" height="28" alt="Spotify" />
-  </a>
-
-  <br><br>
-
-  <!-- Visitor Counter -->
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=kenzbase.kenzbase&" alt="Profile Views" />
-
-  <h1><i>Hey there! 👋</i></h1>
+<div data-importer="image" align="center">
+  <img data-importer="image" height="150" src="https://i.pinimg.com/originals/2d/0e/b5/2d0eb5e788497ca7a9820724a8210d27.gif"  />
 </div>
 
----
+###
 
-### 👩‍💻 About Me
-
-- 🔭 **Working on:** Currently open to new projects
-- 📚 **Learning:** C Programming Language
-- ⚡ **Hobbies:** Playing Chess & Learning New Programming Languages
-
----
-
-### 🛠️ Languages and Tools
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++ logo" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python logo" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5 logo" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="Firebase logo" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="40" alt="Blender logo" />
-</p>
-
----
-
-### 🔥 My Stats
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/kenzbase/kenzbase/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="Stats Graph" />
-  <img src="https://raw.githubusercontent.com/kenzbase/kenzbase/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="Languages Graph" />
+<div data-importer="socials" align="center">
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Spotify&logo=spotify&label=&color=000000&logoColor=1DB954&labelColor=&style=for-the-badge" height="25" alt="spotify logo"  />
 </div>
 
-<br>
+###
 
-<picture>
+<div data-importer="profile-views" align="center">
+  <img data-importer="profile-views" src="https://count.getloli.com/@:kenzbase?theme=ai-1&padding=7&scale=1&align=top&pixelated=1&darkmode=auto"  />
+</div>
+
+###
+
+<h1 data-importer="text" align="center">Welcome to my GitHub profile 👋</h1>
+
+###
+
+<h5 data-importer="text" align="center">"I am a tech enthusiast constantly learning new tools and frameworks. Currently focused on mastering modern web development and building clean, efficient code."</h5>
+
+###
+
+<h3 data-importer="text" align="left">👩‍💻  About Me</h3>
+
+###
+
+<p data-importer="text" align="left">I'm ... from ....<br><br>- 🔭 I’m working as none<br>- 📚 I'm currently learning C Language Program<br>- ⚡ In my free time I Ussualy Play Chess & Learn New Language Program</p>
+
+###
+
+<h3 data-importer="text" align="left">🛠 Language and tools</h3>
+
+###
+
+<div data-importer="techs" align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="40" alt="blender logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+</div>
+
+###
+
+<h3 data-importer="text" align="left">🔥   My Stats :</h3>
+
+###
+
+<div data-importer="stats" align="center">
+  <img src="https://raw.githubusercontent.com/kenzbase/kenzbase/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false&order=2" height="200" alt="languages graph"  />
+</div>
+
+###
+
+<picture data-importer="pacman">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kenzbase/kenzbase/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kenzbase/kenzbase/pacman-output/pacman-contribution-graph.svg?game=pacman">
-  <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/kenzbase/kenzbase/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/kenzbase/kenzbase/pacman-output/pacman-contribution-graph.svg?game=pacman">
 </picture>
 
-<br><br>
+###
 
-<img src="https://raw.githubusercontent.com/kenzbase/kenzbase/snake-output/snake.svg" alt="Snake animation" />
+<img data-importer="snake" src="https://raw.githubusercontent.com/kenzbase/kenzbase/snake-output/snake.svg" alt="Snake animation" />
+
+###
