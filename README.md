@@ -1,11 +1,6 @@
 <div align="center">
   <!-- GIF Banner -->
-  <video height="180" autoplay loop muted playsinline>
-  <source src="./header.gif.gif" type="video/mp4">
-  <img height="180" src="./header.gif.gif" alt="Header GIF" />
-</video>
-  
-  <img height="180" src="https://i.pinimg.com/originals/c9/50/30/c950308f17f239e89e43656992c8a2c6.gif" alt="Header GIF" />
+  <img height="180" src="https://raw.githubusercontent.com/kenzbase/kenzbase/main/header.gif.gif" alt="Header GIF" />
   
   <br><br>
 
