@@ -10,7 +10,7 @@
 
 <div data-importer="stats" align="center">
   <img src="https://raw.githubusercontent.com/kenzbase/kenzbase/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/kenzbase/kenzbase/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://raw.githubusercontent.com/kenzbase/kenzbase/languages-output/languages.svg?locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true" height="150" alt="languages graph"  />
 </div>
 
 ###
@@ -37,23 +37,25 @@
 
 ###
 
-<img data-importer="image" align="right" height="150" src="https://i.pinimg.com/originals/2d/0e/b5/2d0eb5e788497ca7a9820724a8210d27.gif"  />
-
-###
-
-<div data-importer="music" align="center">
-  <a href="https://open.spotify.com/user/31qlwrqeot6gh3feu4tr6rmwxxrq">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31qlwrqeot6gh3feu4tr6rmwxxrq&count=3&unique=true" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
-
 <picture data-importer="pacman">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kenzbase/kenzbase/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kenzbase/kenzbase/pacman-output/pacman-contribution-graph.svg?game=pacman">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/kenzbase/kenzbase/pacman-output/pacman-contribution-graph.svg?game=pacman">
 </picture>
+
+###
+
+<br clear="both">
+
+<img data-importer="image" align="left" height="145" src="https://i.pinimg.com/originals/2d/0e/b5/2d0eb5e788497ca7a9820724a8210d27.gif"  />
+
+###
+
+<div data-importer="music" align="center">
+  <a href="https://open.spotify.com/user/31qlwrqeot6gh3feu4tr6rmwxxrq">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31qlwrqeot6gh3feu4tr6rmwxxrq&count=1&unique=true" alt="Spotify recently played"  />
+  </a>
+</div>
 
 ###
 
