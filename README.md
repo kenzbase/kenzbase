@@ -1,6 +1,6 @@
 <div align="center">
   <!-- GIF Banner -->
-  <img height="180" src="./header.gif.gif" alt="Header GIF" />
+  <img height="180" src="https://raw.githubusercontent.com/kenzbase/kenzbase/main/header.gif.gif" alt="Header GIF" />
   
   <br><br>
 
