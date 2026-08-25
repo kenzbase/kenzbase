@@ -46,7 +46,7 @@
 
 ###
 
-<p data-importer="text" align="left">I'm Kenz from Bali-Denpasar <br><br>- 🔭 I’m working as none<br>- 📚 I'm currently learning C Language Program<br>- ⚡ In my free time I Ussualy Play Chess & Learn New Language Program</p>
+<p data-importer="text" align="left">I'm Kenz from Indonesian <br><br>- 🔭 I’m working as none<br>- 📚 I'm currently learning C Language Program<br>- ⚡ In my free time I Ussualy Play Chess & Learn New Language Program</p>
 
 ###
 
